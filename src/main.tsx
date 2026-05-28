@@ -6,8 +6,8 @@ import App from './App.tsx';
 
 createRoot(document.getElementById('root')!).render(
 	<StrictMode>
-		<BrowserRouter basename="/qingmusic">
+		<BrowserRouter basename="/light-music">
 			<App />
 		</BrowserRouter>
-	</StrictMode>
+	</StrictMode>,
 );

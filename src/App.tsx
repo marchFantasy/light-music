@@ -60,7 +60,7 @@ function App() {
 			const artist = currentTrack.metadata?.artist || t('unknownArtist');
 			document.title = `${title} - ${artist}`;
 		} else {
-			document.title = 'QingMusic';
+			document.title = 'LightMusic';
 		}
 	}, [currentTrack, isPlaying, t]);
 

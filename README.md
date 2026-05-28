@@ -1,10 +1,10 @@
-# QingMusic - 清新优雅的本地音乐播放器
+# LightMusic - 清新优雅的本地音乐播放器
 
-QingMusic 是一款使用现代 Web 技术构建的本地音乐播放器。它致力于提供一个界面清新、交互优雅、性能出色的桌面级音乐欣赏体验。用户可以直接选择本地音乐文件夹，应用会自动扫描并展示音乐库，无需上传，所有数据均保留在本地。
+LightMusic 是一款使用现代 Web 技术构建的本地音乐播放器。它致力于提供一个界面清新、交互优雅、性能出色的桌面级音乐欣赏体验。用户可以直接选择本地音乐文件夹，应用会自动扫描并展示音乐库，无需上传，所有数据均保留在本地。
 
-[在线演示 (Live Demo)](https://marchFantasy.github.io/qingmusic/)
+[在线演示 (Live Demo)](https://marchFantasy.github.io/light-music/)
 
-![QingMusic Screenshot](docs/images/screen_short_all.png)
+![LightMusic Screenshot](docs/images/screen_short_all.png)
 
 ## 主要功能
 
@@ -39,8 +39,8 @@ QingMusic 是一款使用现代 Web 技术构建的本地音乐播放器。它�
 1. **克隆项目**
 
    ```bash
-   git clone https://github.com/marchFantasy/qingmusic.git
-   cd qingmusic
+   git clone https://github.com/marchFantasy/LightMusic.git
+   cd LightMusic
    ```
 
 2. **安装依赖**
