@@ -39,8 +39,8 @@ LightMusic 是一款使用现代 Web 技术构建的本地音乐播放器。它�
 1. **克隆项目**
 
    ```bash
-   git clone https://github.com/marchFantasy/LightMusic.git
-   cd LightMusic
+   git clone https://github.com/marchFantasy/light-music.git
+   cd light-music
    ```
 
 2. **安装依赖**
